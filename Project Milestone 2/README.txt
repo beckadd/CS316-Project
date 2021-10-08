@@ -12,3 +12,6 @@ Summary of changes:
 
 Since Milestone 1, I (Beck Addison) have created the mockup of the website (see REPORT.pdf), an E/R diagram of the
 application, and an SQL file implementing the E/R diagram's data model (see CODE.zip).
+
+Git repository: https://github.com/beckadd/CS316-Project.git
+Code for SQL Database can be found at ./Project Milestone 2/CODE/data-model.sql.
